@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://www.canva.com/design/DAGPPKha2YA/0qKOq3l2zAdvimMdWXVwwg/edit?utm_content=DAGPPKha2YA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="800"/>
+  <img decoding="async" src="https://github.com/PedroVicente96/PedroVicente96/blob/main/banner.png" width="800"/>
 </div>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedrovicenteglz)
 <h1>
